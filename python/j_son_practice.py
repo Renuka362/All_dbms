@@ -1,0 +1,10 @@
+[
+    {
+        "language":"python"
+        "extension":".py"
+    },
+    {
+        "language":"c"
+        "extension":".c"
+    }
+]
